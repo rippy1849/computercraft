@@ -1,4 +1,4 @@
-for Variable = 0, 10, 1 do
+for Variable = 0, 3, 1 do
     local dfpwm = require("cc.audio.dfpwm")
     local speaker = peripheral.find("speaker")
 
